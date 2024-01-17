@@ -12,7 +12,7 @@
 
 Exploring the digital frontier with a keyboard and a vision. 🚀 Crafting code like an artist paints on a canvas. 🎨 Always seeking the next challenge to conquer and the next skill to master. 🌐 Let's turn ideas into extraordinary realities!
 
-## 🌟 Enthusiast of
+## ✨ I'm a fan of
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)&nbsp;
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)&nbsp;
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)&nbsp;
