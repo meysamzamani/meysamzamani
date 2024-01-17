@@ -6,7 +6,7 @@
 
 ## 🌟 Passionate Developer & Innovator
 
-<img alt="Night Coding" src="./assets/thinking.gif" align="right"/>
+<img alt="Coding" src="./assets/coding.webp" align="right" style="width: 30%"/>
 
 </br>
 
